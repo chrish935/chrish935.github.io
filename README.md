@@ -1,2 +1,2 @@
-# chrish935.github.io
-My personal website using GitHub Pages
+# Readme
+Made using the trestles theme from the [postcards](https://github.com/seankross/postcards) package.
