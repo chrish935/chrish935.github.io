@@ -1,0 +1,47 @@
+---
+title: "Christopher Horn, PhD"
+image: "chris.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/chrish935"
+  - label: GitLab
+    url: "https://gitlab.com/chrish935"
+  - label: LinkedIn
+    url: "https://linkedin.com/in/cmhorn/"
+  - label: Twitter
+    url: "https://twitter.com/DrChrisHorn"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+I was originally a classically trained biochemist, but I've grown more & more into a bioinformatician over the years. I'm currently an [APHL Fellow](https://www.aphl.org/Career-Pathways/fellowships/Pages/default.aspx) at the [CDC](https://www.cdc.gov/) where I build & utilize computational tools to better understand biological data so that our public health systems can be ready to handle the spread of disease. Outside of work, I enjoy hanging out with my cats, reading about the law & politics, and trying out new cooking recipes.
+
+## Education
+
+**University of Nebraska Medical Center** \| Omaha, NE
+
+-   PhD in Immunology, Pathology, & Infectious Diseases \| June 2019 - May 2023
+
+**University of Nebraska at Omaha** \| Omaha, NE
+
+-   MS in Biology \| August 2017 - May 2019
+
+-   BS in Biotechnology \| August 2012 - May 2017
+
+## Experience
+
+**Centers for Disease Control & Prevention** \| Atlanta, GA
+
+-   APHL Fellow \| August 2023 - Present
+
+**University of Nebraska Medical Center** \| Omaha, NE
+
+-   PhD Candidate \| June 2019 - May 2023
+
+**University of Nebraska at Omaha** \| Omaha, NE
+
+-   MS Candidate \| August 2017 - May 2019
+
+-   Undergraduate Research Assistant \| August 2015 - August 2017
