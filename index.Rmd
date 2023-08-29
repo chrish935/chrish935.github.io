@@ -8,8 +8,8 @@ links:
     url: "https://gitlab.com/chrish935"
   - label: LinkedIn
     url: "https://linkedin.com/in/cmhorn/"
-  - label: Twitter
-    url: "https://twitter.com/DrChrisHorn"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=5Q-DBBMAAAAJ&hl=en"
 output:
   postcards::trestles
 ---
